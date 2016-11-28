@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.release.1439263987/MPI_HOSTS/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.release.1439263987/MPI_HOSTS/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.release.1439263987/MPI_HOSTS/value=./src/host_file
+environment/project/cdt.managedbuild.config.gnu.exe.release.1439263987/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.1439263987/appendContributed=true
